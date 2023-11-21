@@ -1,2 +1,5 @@
- config.js
+config.js
+.idea/
+.vscode/
+.DS_Store
  
